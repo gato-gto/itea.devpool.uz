@@ -3,4 +3,4 @@
 #    controller: App\Controller\DefaultController::index
 general:
   path: /general
-  controller: App\Controller\Ge::number
+  controller: App\Controller\GeneralController::number
