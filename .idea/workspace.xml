@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7466c2d-30ff-4505-a2f9-a614304f81ed" name="Changes" comment="2 commit">
+    <list default="true" id="e7466c2d-30ff-4505-a2f9-a614304f81ed" name="Changes" comment="add idea in git igmore">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643997020067</updated>
-      <workItem from="1643997023598" duration="5265000" />
+      <workItem from="1643997023598" duration="5574000" />
     </task>
     <task id="LOCAL-00001" summary="new project (Syfony)">
       <created>1644002014490</created>
@@ -136,7 +136,35 @@
       <option name="project" value="LOCAL" />
       <updated>1644002265256</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2 commit">
+      <created>1644002598651</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644002598651</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2 commit">
+      <created>1644002779966</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644002779966</updated>
+    </task>
+    <task id="LOCAL-00007" summary="edit guit ignore">
+      <created>1644002798254</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644002798254</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add idea in git igmore">
+      <created>1644002874468</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644002874468</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +185,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new project (Syfony)" />
     <MESSAGE value="2 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 commit" />
+    <MESSAGE value="edit guit ignore" />
+    <MESSAGE value="add idea in git igmore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add idea in git igmore" />
   </component>
 </project>
