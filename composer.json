@@ -19,5 +19,10 @@
             "name": "Kabitov Ildar",
             "email": "gato.gto.13@gmail.com"
         }
-    ]
+    ],
+    "config": {
+        "allow-plugins": {
+            "nodejs-php-fallback/nodejs-php-fallback": true
+        }
+    }
 }
