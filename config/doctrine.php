@@ -3,11 +3,11 @@
 require_once 'config.php';
 
 const DB_PARAMS = array(
-    'driver' => 'pdo_mysql',
-    'user' => 'itea_doctrine',
-    'password' => '280SQiZVsAPw7e6o',
-    'dbname' => 'itea_doctrine',
-    'host' => '10.32.3.20',
+    'driver' => 'driver',
+    'user' => 'user',
+    'password' => 'password',
+    'dbname' => 'dbname',
+    'host' => 'host',
 );
 
 if (defined('APPS')) {
