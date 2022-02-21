@@ -6,11 +6,12 @@
         "symfony/yaml": "^5.3",
         "symfony/cache": "^5.3",
         "doctrine/dbal": "^3.1",
-        "doctrine/orm": "^2.10"
+        "doctrine/orm": "^2.10",
+        "doctrine/annotations": "^1.13"
     },
     "autoload": {
         "psr-4": {
-            "Gato\\IteaDevpoolUz\\": "config/"
+            "Gato\\IteaDevpoolUz\\": "src/"
         },
         "psr-0": {"": "src/"}
     },
