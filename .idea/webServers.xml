@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="49eff649-60d4-4041-bfd5-67e0fee9a27b" name="itea.devpool.uz">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="10.32.3.20" port="22" sshConfigId="7eaf6bfe-88ef-4e08-b82c-e7f297d2ad87" sshConfig="gato@10.32.3.20:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
