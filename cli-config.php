@@ -1,6 +1,5 @@
 <?php
 
-require_once 'config/doctrine.php';
 require_once "vendor/autoload.php";
 
 use Doctrine\ORM\Tools\Setup;

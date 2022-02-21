@@ -1,6 +1,6 @@
 <?php
 
-require_once 'config.php';
+//require_once 'config.php';
 
 const DB_PARAMS = array(
         'driver'   => 'pdo_mysql',

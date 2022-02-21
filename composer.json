@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Gato\\IteaDevpoolUz\\": "src/"
+            "Gato\\IteaDevpoolUz\\": "config/"
         },
         "psr-0": {"": "src/"}
     },
