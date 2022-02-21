@@ -1,0 +1,30 @@
+extends base
+block content
+    .container
+        .row
+            .col-md-12
+                h1.text-center.mb-5 #{title}
+            .col-md-12
+                form(method='post' id='listForm')
+                table.table.align-middle
+                    thead
+                        tr
+                            th #
+                            th Название
+                            th Цена
+                            th Категория
+                            th Бренд
+                            th
+                    tbody
+                        each product in products
+                            tr
+                                td #{product.id}
+                                td #{product.name}
+                                td #{product.price}
+                                td #{product.category.name}
+                                td #{product.brand.name}
+                                td
+                                    .btn-group
+                                        a(class='btn btn-sm btn-success' href='/product/' + product.id) Изменить
+                                        button.btn(type="submit" class='btn-sm btn-danger rm_btn' name='remove' value=product.id form='listForm') Удалить
+

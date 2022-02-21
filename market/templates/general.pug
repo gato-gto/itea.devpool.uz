@@ -1,0 +1,13 @@
+extends base
+block content
+    .container
+        .row
+            .col-md-12
+                h1.text-center.mb-5 #{title}
+            .col-md-3
+                h3 Количество
+                table.table.align-middle
+                    tbody
+                        tr
+                            th Товаров
+                            td #{count.product}
